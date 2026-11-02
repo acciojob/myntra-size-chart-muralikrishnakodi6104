@@ -1,2 +1,15 @@
-
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+table,th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding-right: 50px;
+  
+}
 /* Your CSS Code here. */
